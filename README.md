@@ -40,9 +40,7 @@ Read-editDAT built off of the readDAT assignment by adding the ability to edit a
 
 ### recByAgentOG
 ________
-RecByAgentOG was a trickier assignment, where we had to pull the data from a .dat file and pull all records associated with a specic
-agent and print out each agent's records one by one. Ideally, we would have added page breaks, but since we were just working
-within OpenCOBOLIDE/compiling in terminal, there was not a great way to practice that.
+RecByAgentOG was a trickier assignment, where we had to pull the data from a .dat file and pull all records associated with a specic agent and print out each agent's records one by one. Ideally, we would have added page breaks, but since we were just working within OpenCOBOLIDE/compiling in terminal, there was not a great way to practice that.
 
 ### editAgent
 ________
